@@ -1,0 +1,13 @@
+No.	Items	Question
+1	Presence	My experience in the virtual environment is largely consistent with my experience in the real world.
+2	Presence	My interactions with the environment appear very natural (including visual, auditory, and interactive tasks).
+3	Presence	I am able to focus on the task assigned to me rather than on the equipment or being influenced by external factors.
+4	Engagement	The visuals, sounds, and tasks in the virtual environment immerse me deeply.
+5	Engagement	My senses are fully absorbed by the entire virtual reality experience.
+6	Engagement	I felt interested in this experience.
+7	immersion	I completely understand how to perform each step of the task, and I feel in full control of my actions in the virtual reality.
+8	immersion	I feel completely engaged in the task at hand.
+9	immersion	I am so immersed in the virtual environment that I am unaware of what is happening around me.
+10	Emotion	During the task you just completed, your emotions were more inclined towards: positive emotions (happiness, pleasure, relaxation, etc.) or negative emotions (unhappiness, disappointment, anxiety, etc.).
+11	CognitiveLoad	How difficult did you find the task you just completed?
+12	CognitiveLoad	How much effort do you think you put in to complete the task?

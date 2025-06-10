@@ -18,6 +18,3 @@ This folder contains all questionnaires used in the experiment.
 ## 📁 TimePerceptionAudio  
 This folder includes the two music tracks used during the experiment.
 
----
-
-For questions or usage requests, please contact the repository owner or open an issue.

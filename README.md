@@ -4,7 +4,7 @@ This repository contains materials related to research on time perception in vir
 
 ## 📁 DLModelProject  
 This folder contains the deep learning model and dataset used for time perception modeling.  
-*Status: pending upload*
+*Status: uploading in progress*
 
 ## 📁 ExperimentalProject  
 This folder includes two components:  

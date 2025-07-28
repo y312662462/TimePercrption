@@ -10,7 +10,7 @@ This folder contains the deep learning model and dataset used for time perceptio
 This folder includes two components:  
 - **Unity Project**: The VR experimental environment  
 - **Python Project**: The multimodal physiological signal acquisition system  
-*Status: both components pending upload*
+*Status: uploading in progress*
 
 ## 📁 Questionnaire  
 This folder contains all questionnaires used in the experiment.
